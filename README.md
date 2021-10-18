@@ -17,6 +17,7 @@
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/carlosdevtk/carlosdevtk/main/portrait.png">
 </div>
 
